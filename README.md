@@ -1,16 +1,24 @@
-## Hi there 👋
+# Andrés Herrera
 
-<!--
-**andresherreamonge04/andresherreamonge04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Founder of Mi Visor — an AI-powered construction monitoring platform.
 
-Here are some ideas to get you started:
+## What I Do
+- Design AI workflows for real-world applications
+- Build prompt-driven systems and automation
+- Translate business problems into structured AI solutions
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Focus
+- Conversational AI systems
+- Workflow automation
+- AI-driven decision systems
+
+## Projects
+- AI workflows & prompt engineering
+- Data analysis & structured systems
+- Startup building (Mi Visor)
+
+## Let's Connect
+LinkedIn: https://www.linkedin.com/in/andresherreramonge/
+
+
+
