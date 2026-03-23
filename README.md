@@ -1,6 +1,6 @@
 # Andrés Herrera
 
-Founder of Mi Visor — an AI-powered construction monitoring platform.
+Founder of Mi Visor an AI-powered construction monitoring platform.
 
 ## What I Do
 - Design AI workflows for real-world applications
